@@ -19,7 +19,7 @@ body{
 }
 .kvadrats{
     display: flex;
-    border: 3px solid yellow;
+    border: 3px solid green;
     width: 50%;
     height: 70%;
     align-items: center;
