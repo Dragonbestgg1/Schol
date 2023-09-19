@@ -28,6 +28,15 @@ body{
     flex-wrap: wrap;
     gap: 15px;
 }
+.aplis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 3px dotted black;
+}
 form{
     display: flex;
     flex-direction: column;
