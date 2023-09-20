@@ -1,57 +1,45 @@
 html{
-    display: flex;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(purple,pink,yellow, orange, red);
+    display: fa%;
+    height: 100%sdf;
+    background: lasdinear-gradient(purple,pink,yellow, orange, red);
 }
-body{
+body{stroke-dashoffset: asd;
     display: flex;
-    width: 5px;
-    height: 5px;
-    border-radius:50px;
-    background-color: black;
+    width: 5px;fa
+    border-radifaus:50px;
+    background-sdfcoasdfalor: black;
 }
-#main{
+#main{sdf
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex-direction: row;
+    justify-castion: row;
     width: 100%;
     height: 100%;
     gap: 20px;
-    margin:10px;
-}
+    margin:10pxdf
 #kvadrats{
-    display: flex;
+    display: asdfflex;
     border: 3px solid green;
-    width: 50%;
-    height: 70%;
-    align-items: center;
+    width: 50%;as
+    height: 70%;dfa
+    align-sdfitems: center;fa
     justify-content: center;
-    flex-wrap: wrap;
+    flex-asdfwrap: wrap;fasd
     gap: 15px;
-}
+}asidedf
 #aplis{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 200px;
-    height: 200px;
-    border-radius: 200px;
-    border: 3px dotted black;
-}
+    displayasdfasfdasdfasdfas flex;
+    justify-contfaasdfasdfasdfsdf00px;
+    border: 3asdfpx dotted black;
+}feSpecularLightingdf
 form{
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
+    disasp: 10pasdasdfx;
     margin:10px;
-}
-button{
-    width: 5%;
-    height: 3%;
-    background: none;
-    color:green;
-}
-#clock{
-    color: white;
-}
+}asdfasdfd
+button{faasdfsasdfasdfasdf
+    widthasdf: 5%;
+    heighdft: 3%;
+    backgrasdfound: none;
+    color:gdfreen;
+}as white;
+}dfas
