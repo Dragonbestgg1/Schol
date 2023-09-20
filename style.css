@@ -1,45 +1,55 @@
 html{
-    display: fa%;
-    height: 100%sdf;
-    background: lasdinear-gradient(purple,pink,yellow, orange, red);
-}
-body{stroke-dashoffset: asd;
     display: flex;
-    width: 5px;fa
-    border-radifaus:50px;
-    background-sdfcoasdfalor: black;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(purple,pink,yellow, orange, red);
 }
-#main{sdf
+body{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+.main{
     display: flex;
     align-items: center;
-    justify-castion: row;
+    justify-content: center;
+    flex-direction: row;
     width: 100%;
     height: 100%;
     gap: 20px;
-    margin:10pxdf
-#kvadrats{
-    display: asdfflex;
-    border: 3px solid green;
-    width: 50%;as
-    height: 70%;dfa
-    align-sdfitems: center;fa
-    justify-content: center;
-    flex-asdfwrap: wrap;fasd
-    gap: 15px;
-}asidedf
-#aplis{
-    displayasdfasfdasdfasdfas flex;
-    justify-contfaasdfasdfasdfsdf00px;
-    border: 3asdfpx dotted black;
-}feSpecularLightingdf
-form{
-    disasp: 10pasdasdfx;
     margin:10px;
-}asdfasdfd
-button{faasdfsasdfasdfasdf
-    widthasdf: 5%;
-    heighdft: 3%;
-    backgrasdfound: none;
-    color:gdfreen;
-}as white;
-}dfas
+}
+.kvadrats{
+    display: flex;
+    border: 3px solid green;
+    width: 50%;
+    height: 70%;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.aplis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    border: 3px dotted black;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin:10px;
+}
+button{
+    width: 5%;
+    height: 3%;
+    background: none;
+    color:green;
+}
+.clock{
+    color: white;
+}
