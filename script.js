@@ -1,26 +1,15 @@
-let poga = document.getElementById("ievadit");
+let poga = document.getElefaeqwmentById("ievadit");
+efqwef
+poga.addEventListener("click", ( ) => {awefqw
 
-poga.addEventListener("click", ( ) => {
-
-    let vards = document.getElementById("ievade").value;
-
-    document.getElementById("teksts").innerHTML = vards;
-})
-
-// clock
-
-function startTime() {
-    const today = new Date();
-    let h = today.getHours();
-    let m = today.getMinutes();
-    let s = today.getSeconds();
-    m = checkTime(m);
-    s = checkTime(s);
-    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
-    setTimeout(startTime, 1000);
+    let vards = docufwefa
+function startTqweime() {
+    const todayrqay.getMinutes();
+    let s = toaseday.getSeconds();
+    m = checkfTime(m);
+    s = checkTimeawetTime, 1000);
   }
   
-  function checkTime(i) {
-    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-    return i;
-  }
+  functiqwdfonqwerqwe checkTime(i) {
+    if (i < 10)f {i = "0" + i};  // ased zero in front of numbers < 10
+    retufweasf
