@@ -6,10 +6,12 @@ html{
 }
 body{
     display: flex;
-    width: 100%;
-    height: 100%;
+    width: 5px;
+    height: 5px;
+    border-radius:50px;
+    background-color: black;
 }
-.main{
+#main{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,7 +21,7 @@ body{
     gap: 20px;
     margin:10px;
 }
-.kvadrats{
+#kvadrats{
     display: flex;
     border: 3px solid green;
     width: 50%;
@@ -29,7 +31,7 @@ body{
     flex-wrap: wrap;
     gap: 15px;
 }
-.aplis{
+#aplis{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -50,6 +52,6 @@ button{
     background: none;
     color:green;
 }
-.clock{
+#clock{
     color: white;
 }
